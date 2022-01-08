@@ -50,7 +50,7 @@
 
     {{- highlight (index . "content") $lang $hloptions -}}
     {{ if $element.github }}
-      <div class="github">
+      <div class="github nocode">
         <a href ="https://www.github.com/{{- $element.github -}}">See full example on GitHub.</a>
       </div>
     {{end}}
