@@ -1,7 +1,7 @@
 ---
 title: "Installing browser drivers"
 linkTitle: "Installing browser drivers"
-weight: 2
+weight: 4
 needsTranslation: true
 description: >
   Setting up your browser ready to be automated.
@@ -12,17 +12,8 @@ aliases: [
 ]
 ---
 
-{{% pageinfo color="warning" %}}
-<p class="lead">
-   <i class="fas fa-language display-4"></i> 
-   Page being translated from 
-   English to Portuguese. Do you speak Portuguese? Help us to translate
-   it by sending us pull requests!
-</p>
-{{% /pageinfo %}}
-
 Por meio do WebDriver, o Selenium oferece suporte a todos os principais navegadores do mercado
-como Chrom(ium), Firefox, Internet Explorer, Edge, Opera e Safari.
+como Chrome/Chromium, Firefox, Internet Explorer, Edge, Opera e Safari.
 Sempre que possível, o WebDriver dirige o navegador
 usando o suporte integrado do navegador para automação,
 embora nem todos os navegadores tenham suporte oficial para controle remoto.

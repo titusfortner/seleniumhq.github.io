@@ -1,7 +1,7 @@
 ---
 title: "安装浏览器驱动"
 linkTitle: "安装驱动"
-weight: 2
+weight: 4
 needsTranslation: true
 description: >
   设置您的浏览器用于自动化.
@@ -13,7 +13,7 @@ aliases: [
 ---
 
 
-通过 WebDriver，Selenium 支持市面上所有主流的浏览器，如 Chrom(ium)、Firefox、
+通过 WebDriver，Selenium 支持市面上所有主流的浏览器，如 Chrome/Chromium、Firefox、
 Internet Explorer、 Edge、Opera 和 Safari。 尽管并非所有浏览器都对远程控制提供官方支持，
 但 WebDriver 尽可能使用浏览器的内置自动化支持来驱动浏览器。
 
