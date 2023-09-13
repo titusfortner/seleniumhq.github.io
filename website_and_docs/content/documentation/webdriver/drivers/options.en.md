@@ -73,6 +73,7 @@ WebDriver waits until the [load](https://developer.mozilla.org/en-US/docs/Web/AP
 event fire is returned.
 
 {{< tabpane langEqualsHeader=true >}}
+{{< badge-examples >}}
 {{< tab header="Java" >}}
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -157,6 +158,7 @@ WebDriver waits until [DOMContentLoaded](https://developer.mozilla.org/en-US/doc
 event fire is returned.
 
 {{< tabpane langEqualsHeader=true >}}
+{{< badge-examples >}}
 {{< tab header="Java" >}}
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -240,6 +242,7 @@ fun main() {
 WebDriver only waits until the initial page is downloaded.
 
 {{< tabpane langEqualsHeader=true >}}
+{{< badge-examples >}}
 {{< tab header="Java" >}}
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -422,6 +425,7 @@ likely because the environment needs a proxy to be accessed.
 Selenium WebDriver provides a way to proxy settings:
 
 {{< tabpane langEqualsHeader=true >}}
+{{< badge-examples >}}
 {{< tab header="Java" >}}
 import org.openqa.selenium.Proxy;
 import org.openqa.selenium.WebDriver;
