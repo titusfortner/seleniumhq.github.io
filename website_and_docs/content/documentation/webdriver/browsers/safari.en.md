@@ -92,4 +92,23 @@ Property value: `"true"` or `"false"`
 
 Apple provides a development version of their browser — [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/)
 
-{{< alert-code />}}
+{{< tabpane text=true langEqualsHeader=true >}}
+{{< tab header="Java" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{% tab header="Python" %}}
+{{< badge-code >}}
+{{% /tab %}}
+{{< tab header="CSharp" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="Ruby" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="JavaScript" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="Kotlin" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< /tabpane >}}

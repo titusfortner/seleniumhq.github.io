@@ -77,7 +77,26 @@ use geckodriver to drive Firefox Nightly instead of the production version when 
 
 Add a browser location to options:
 
-{{< alert-code />}}
+{{< tabpane text=true langEqualsHeader=true >}}
+{{< tab header="Java" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{% tab header="Python" %}}
+{{< badge-code >}}
+{{% /tab %}}
+{{< tab header="CSharp" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="Ruby" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="JavaScript" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="Kotlin" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< /tabpane >}}
 
 ### Profiles
 
@@ -394,7 +413,26 @@ The following examples are for local webdrivers. For remote webdrivers,
 please refer to the
 [Remote WebDriver]({{< ref "../drivers/remote_webdriver" >}}) page.
 
-{{< alert-code />}}
+{{< tabpane text=true langEqualsHeader=true >}}
+{{< tab header="Java" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{% tab header="Python" %}}
+{{< badge-code >}}
+{{% /tab %}}
+{{< tab header="CSharp" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="Ruby" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="JavaScript" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="Kotlin" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< /tabpane >}}
 
 ### Context
 
@@ -402,4 +440,23 @@ The following examples are for local webdrivers. For remote webdrivers,
 please refer to the
 [Remote WebDriver]({{< ref "../drivers/remote_webdriver" >}}) page.
 
-{{< alert-code />}}
+{{< tabpane text=true langEqualsHeader=true >}}
+{{< tab header="Java" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{% tab header="Python" %}}
+{{< badge-code >}}
+{{% /tab %}}
+{{< tab header="CSharp" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="Ruby" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="JavaScript" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< tab header="Kotlin" >}}
+{{< badge-code >}}
+{{< /tab >}}
+{{< /tabpane >}}
